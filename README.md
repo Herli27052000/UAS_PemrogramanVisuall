@@ -14,7 +14,7 @@ Berikut ini adalah tampilan form utama
 
 ![Form_Utama](image/1PS.png)
 
-**diatas adalah tampilan awal form,berikutnya adalah tampilan ***Form Login*** **
+**diatas adalah tampilan awal form,berikutnya adalah tampilan **Form Login**
 
 ### 2. Form Login
 
