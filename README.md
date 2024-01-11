@@ -7,6 +7,9 @@
 
 ## SEMESTER 7
 
+**Berikut adalah link Demo program**
+***link youtube: https://youtu.be/WjwAd42FxSs***
+
 **Disini saya akan mengcapture setiap fiture pada project UAS yang saya buat**
 
 Berikut ini adalah tampilan form utama
